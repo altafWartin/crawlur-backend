@@ -1,0 +1,1128 @@
+{
+    "demo_message": "* Demo results are truncated for brevity *",
+    "request_parameters": {
+      "amazon_domain": "amazon.com",
+      "type": "product",
+      "asin": "B00NGV4506"
+    },
+    "request_metadata": {
+      "amazon_url": "https://www.amazon.com/dp/B00NGV4506?th=1&psc=1"
+    },
+    "product": {
+      "title": "Ninja BL610 Professional 72 Oz Countertop 1000-Watt Base and Total Crushing Technology for Smoothies, Ice and Frozen Fruit, Black, Blender + Pitcher Generation 2 (1000 Watts)",
+      "search_alias": {
+        "title": "Home & Kitchen",
+        "value": "garden"
+      },
+      "title_excluding_variant_name": "Ninja BL610 Professional 72 Oz Countertop 1000-Watt Base and Total Crushing Technology for Smoothies, Ice and Frozen Fruit, Black, Blender + Pitcher",
+      "keywords": "Ninja,BL610,Professional,72,Oz,Countertop,1000-Watt,Base,and,Total,Crushing,Technology,for,Smoothies,Ice,and,Frozen,Fruit,Black,Blender,+,Pitcher",
+      "keywords_list": [
+        "Ninja",
+        "BL610",
+        "Professional",
+        "Countertop",
+        "1000-Watt",
+        "Base",
+        "Total",
+        "Crushing",
+        "Technology",
+        "Smoothies",
+        "Frozen",
+        "Fruit",
+        "Black",
+        "Blender",
+        "Pitcher"
+      ],
+      "asin": "B00NGV4506",
+      "parent_asin": "B0D3HM2B89",
+      "link": "https://www.amazon.com/Ninja-Professional-Countertop-Technology-BL610/dp/B00NGV4506",
+      "brand": "Ninja",
+      "protection_plans": [
+        {
+          "asin": "B0B57R9B2N",
+          "title": "3 Year Kitchen Protection Plan",
+          "price": {
+            "symbol": "$",
+            "value": 9.99,
+            "currency": "USD",
+            "raw": "$9.99"
+          }
+        },
+        {
+          "asin": "B07QD3HZVJ",
+          "title": "4-Year Protection",
+          "price": {
+            "symbol": "$",
+            "value": 13.99,
+            "currency": "USD",
+            "raw": "$13.99"
+          }
+        },
+        {
+          "asin": "B07RZ3LSHM",
+          "title": "Asurion Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+          "price": {
+            "symbol": "$",
+            "value": 16.99,
+            "currency": "USD",
+            "raw": "$16.99/month"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "asin": "B00NGV4506",
+          "title": "Generation 2 (1000 Watts)",
+          "is_current_product": true,
+          "link": "https://www.amazon.com/dp/B00NGV4506?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Style",
+              "value": "Generation 2 (1000 Watts)"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/71iD5RyhuaL._AC_SL1500_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/71iD5RyhuaL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/91UBDFndaVL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/81a4FkW5f0L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/81asWsst39L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/91P8-3qHcjL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/81qmuxHlt2L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/812vdPPWxQL._AC_SL1500_.jpg"
+            }
+          ]
+        }
+      ],
+      "variant_asins_flat": "B00NGV4506",
+      "proposition_65_warning": true,
+      "has_size_guide": true,
+      "energy_efficiency": {},
+      "documents": [
+        {
+          "name": "Safety Information (PDF)",
+          "link": "https://m.media-amazon.com/images/I/81ttNXV860L.pdf"
+        },
+        {
+          "name": "User Guide (PDF)",
+          "link": "https://m.media-amazon.com/images/I/B1XUtdZZMJS.pdf"
+        },
+        {
+          "name": "User Manual (PDF)",
+          "link": "https://m.media-amazon.com/images/I/A1WI520x-UL.pdf"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398",
+          "category_id": "1055398"
+        },
+        {
+          "name": "Kitchen & Dining",
+          "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_aui_C_2?ie=UTF8&node=284507",
+          "category_id": "284507"
+        },
+        {
+          "name": "Small Appliances",
+          "link": "https://www.amazon.com/kitchen-small-appliances/b/ref=dp_bc_aui_C_3?ie=UTF8&node=289913",
+          "category_id": "289913"
+        }
+      ],
+      "categories_flat": "Home & Kitchen > Kitchen & Dining > Small Appliances",
+      "description": "PRODUCT DESCRIPTION \n The Ninja professional blender 1000 features a sleek design and outstanding performance with 1000 watts of professional power. Ninja total crushing blades gives you perfect ice crushing, blending, pureeing, and controlled processing. The XL 72 oz. Professional blender jar is great for making drinks and smoothies for the whole family. \n\n BRAND STORY \n By Ninja",
+      "a_plus_content": {
+        "has_a_plus_content": true,
+        "has_brand_story": false,
+        "third_party": false
+      },
+      "sub_title": {
+        "text": "Visit the Ninja Store",
+        "link": "https://www.amazon.com/stores/Ninja/page/4D837C13-1334-44EE-AD50-9586EE0F3873?ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+      },
+      "marketplace_id": "ATVPDKIKX0DER",
+      "rating": 4.7,
+      "rating_breakdown": {
+        "five_star": {
+          "percentage": 83,
+          "count": 42540
+        },
+        "four_star": {
+          "percentage": 9,
+          "count": 4612
+        },
+        "three_star": {
+          "percentage": 3,
+          "count": 1537
+        },
+        "two_star": {
+          "percentage": 1,
+          "count": 512
+        },
+        "one_star": {
+          "percentage": 4,
+          "count": 2050
+        }
+      },
+      "ratings_total": 51254,
+      "main_image": {
+        "link": "https://m.media-amazon.com/images/I/71iD5RyhuaL.jpg"
+      },
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/71iD5RyhuaL._AC_SL1500_.jpg",
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/91UBDFndaVL._AC_SL1500_.jpg",
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81a4FkW5f0L._AC_SL1500_.jpg",
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81asWsst39L._AC_SL1500_.jpg",
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/91P8-3qHcjL._AC_SL1500_.jpg",
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81qmuxHlt2L._AC_SL1500_.jpg",
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/812vdPPWxQL._AC_SL1500_.jpg",
+          "variant": "PT06"
+        }
+      ],
+      "images_count": 7,
+      "images_flat": "https://m.media-amazon.com/images/I/71iD5RyhuaL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91UBDFndaVL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81a4FkW5f0L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81asWsst39L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91P8-3qHcjL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81qmuxHlt2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/812vdPPWxQL._AC_SL1500_.jpg",
+      "videos": [
+        {
+          "duration_seconds": 31,
+          "width": 854,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/9ccca441-8c5e-53a3-b24a-a6f26530e237/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/61zFxNodH1L.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G1",
+          "group_type": "videos_for_this_product",
+          "title": "Ninja Professional Blender 1000"
+        },
+        {
+          "duration_seconds": 310,
+          "width": 1920,
+          "height": 1080,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9a03cb8d-b0ee-478d-aa70-a9277e129b32/default.jobtemplate.hls.m3u8",
+          "thumbnail": "https://m.media-amazon.com/images/I/71GcuJWGqRL.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "Watch BEFORE buying Vitamix OR Ninja blenders! #thisorthat"
+        },
+        {
+          "duration_seconds": 353,
+          "width": 1920,
+          "height": 1080,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4a10fc4e-1a3a-4f66-8107-abbaf6843098/default.jobtemplate.hls.m3u8",
+          "thumbnail": "https://m.media-amazon.com/images/I/91uvhCail3L.SX522_.png",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "Only Had One Issue With This Blender (3 Years In)"
+        },
+        {
+          "duration_seconds": 281,
+          "width": 1920,
+          "height": 1080,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/874ed7fc-86c0-4cfd-8005-72d77f7ccca4/default.jobtemplate.hls.m3u8",
+          "thumbnail": "https://m.media-amazon.com/images/I/61obMEunMEL.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "Ninja Professional Blender review at home"
+        },
+        {
+          "duration_seconds": 152,
+          "width": 1080,
+          "height": 1920,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/58f5cc93-ebb2-4131-8ef2-fb284986084c/default.vertical.jobtemplate.hls.m3u8",
+          "thumbnail": "https://m.media-amazon.com/images/I/B15d7YY2RpL.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "WATCH THIS BLENDER IN USE | Honest Review Years Later "
+        },
+        {
+          "duration_seconds": 141,
+          "width": 640,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/696b3128-e1dd-4bde-b030-8875ebec9a24/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/A11tiHsA-gL.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "The good and bad about this blender"
+        }
+      ],
+      "videos_count": 6,
+      "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/9ccca441-8c5e-53a3-b24a-a6f26530e237/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9a03cb8d-b0ee-478d-aa70-a9277e129b32/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4a10fc4e-1a3a-4f66-8107-abbaf6843098/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/874ed7fc-86c0-4cfd-8005-72d77f7ccca4/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/58f5cc93-ebb2-4131-8ef2-fb284986084c/default.vertical.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/696b3128-e1dd-4bde-b030-8875ebec9a24/default.jobtemplate.mp4.480.mp4",
+      "videos_additional": [
+        {
+          "id": "amzn1.vse.video.0dbae722581e4f4d9c0e127ea75f5109",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506",
+          "title": "HONEST REVIEW of Ninja Professional Blender!",
+          "profile_image_url": "https://m.media-amazon.com/images/I/B1hhmvh6IoL._CR0,53,1284,1284_._FMjpg_.jpg",
+          "profile_link": "/shop/phagenleeks",
+          "public_name": "Phagen Leeks",
+          "creator_type": "Influencer",
+          "vendor_code": "phagenleeks:shop",
+          "vendor_name": "Phagen Leeks",
+          "vendor_tracking_id": "onamzphagenle-20",
+          "video_image_id": "71PdQhhObQL",
+          "video_image_url": "https://m.media-amazon.com/images/I/71PdQhhObQL._CR0,0,640,361_SR342,193_.jpg",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71PdQhhObQL.jpg",
+          "video_image_width": "640",
+          "video_image_height": "1144",
+          "video_image_extension": "jpg",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0b800997-6271-4011-b43c-092d1b22e31d/default.vertical.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbc8c764-d6bd-419e-b239-943709cd5281/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbc8c764-d6bd-419e-b239-943709cd5281/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "1:36",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8676ee09-b238-4b9a-b25c-1002fa7525a0.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.0a4dfdd44e8249f8a8ec1a4d820411fd",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506",
+          "title": "Must see demonstration!!! Watch BEFORE you buy!!!!!!",
+          "profile_image_url": "https://m.media-amazon.com/images/I/B1zO2UhgCfL._CR847,449,1569,1569_._FMjpg_.jpg",
+          "profile_link": "/shop/thesawyerandsmittyshow",
+          "public_name": "✅ Telling it like it is with Liz! ✅",
+          "creator_type": "Influencer",
+          "vendor_code": "thesawyerandsmittyshow:shop",
+          "vendor_name": "✅ Telling it like it is with Liz! ✅",
+          "vendor_tracking_id": "onamzeliz0d2e-20",
+          "video_image_id": "B1g04-iK59L",
+          "video_image_url": "https://m.media-amazon.com/images/I/B1g04-iK59L._CR0,0,2048,1156_SR684,386_.png",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1g04-iK59L.png",
+          "video_image_width": "2048",
+          "video_image_height": "1184",
+          "video_image_extension": "png",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/62751d12-5e05-4555-b474-e02347111ed4/default.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42459152-5bcb-4e07-9b2b-bdd3f6c127a1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42459152-5bcb-4e07-9b2b-bdd3f6c127a1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "2:28",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/544db27f-b780-4046-93b6-eb162ba3abfc.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.01a39a13b5bb4f16b48e934d526233bf",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B0BMGSZMW9,B098RD17LG,B00NGV4506,B0C86RW8MK",
+          "title": "HONEST REVIEW! Must watch before buying! ",
+          "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-aa678e98_1686023199626_original._FMjpg_.jpeg",
+          "profile_link": "/shop/influencer-aa678e98",
+          "public_name": "Brian & Camila's Must Haves",
+          "creator_type": "Influencer",
+          "vendor_code": "influencer-aa678e98:shop",
+          "vendor_name": "Brian & Camila's Must Haves",
+          "vendor_tracking_id": "onamzbrianhke-20",
+          "video_image_id": "71PaWTlFdoL",
+          "video_image_url": "https://m.media-amazon.com/images/I/71PaWTlFdoL._CR0,0,270,152_SR342,193_.png",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71PaWTlFdoL.png",
+          "video_image_width": "270",
+          "video_image_height": "480",
+          "video_image_extension": "png",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32e7ceb4-98a9-4e8f-b355-968ba59ed479/default.vertical.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dba9f999-1397-4f5a-95dc-44cd3eaa3e6e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dba9f999-1397-4f5a-95dc-44cd3eaa3e6e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dba9f999-1397-4f5a-95dc-44cd3eaa3e6e/9c6276c8-b65d-4840-83bc-c16fdf69a0ec/01a39a13b5bb4f16b48e934d526233bf_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "1:12",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4555ef4a-1ec3-4961-ba6a-2733762216d6.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.043d6029055243ffb8e1115969d59715",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506",
+          "title": "Honest Review of Ninja Professional 1000w Blender ",
+          "profile_image_url": "https://m.media-amazon.com/images/I/B1u+ukM89BL._CR0,169,2213,2214_._FMjpg_.jpg",
+          "profile_link": "/shop/laceybieniek",
+          "public_name": "All things Lacey and Greg ",
+          "creator_type": "Influencer",
+          "vendor_code": "laceybieniek:shop",
+          "vendor_name": "All things Lacey and Greg ",
+          "vendor_tracking_id": "onamzlacebien-20",
+          "video_image_id": "51PPOiMtRKL",
+          "video_image_url": "https://m.media-amazon.com/images/I/51PPOiMtRKL._CR1,0,638,360_SR342,193_.jpg",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51PPOiMtRKL.jpg",
+          "video_image_width": "640",
+          "video_image_height": "360",
+          "video_image_extension": "jpg",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/18e6aa6a-981b-44d2-872a-c646b611ffc5/default.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8aa9d33f-9c9b-4c1e-b526-bbfb76928554/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8aa9d33f-9c9b-4c1e-b526-bbfb76928554/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8aa9d33f-9c9b-4c1e-b526-bbfb76928554/fc2a1e37-bb84-4cf4-9f8c-fd90cd8cd797/043d6029055243ffb8e1115969d59715_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "2:06",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f0ee5e47-81e7-4461-a2c5-0e6ca38de17c.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.0c2d4fec33814c058bb422910decf91f",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506",
+          "title": "The good and bad about this blender",
+          "profile_image_url": "https://m.media-amazon.com/images/I/91QTCAZjOML._CR0,0,800,800_._FMpng_.png",
+          "profile_link": "/shop/influencer-8f6670e3",
+          "public_name": "Callie Ammons",
+          "creator_type": "Influencer",
+          "vendor_code": "influencer-8f6670e3:shop",
+          "vendor_name": "Callie Ammons",
+          "vendor_tracking_id": "onamzcallieam-20",
+          "video_image_id": "A11tiHsA-gL",
+          "video_image_url": "https://m.media-amazon.com/images/I/A11tiHsA-gL._CR7,0,4019,2268_SR684,386_.jpg",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A11tiHsA-gL.jpg",
+          "video_image_width": "4032",
+          "video_image_height": "2268",
+          "video_image_extension": "jpg",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/696b3128-e1dd-4bde-b030-8875ebec9a24/default.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fcf6de65-c608-492c-817f-2f2b73e36427/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fcf6de65-c608-492c-817f-2f2b73e36427/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fcf6de65-c608-492c-817f-2f2b73e36427/30b1be11-275e-4d57-b1b9-cce9201ccfea/0c2d4fec33814c058bb422910decf91f_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "2:21",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9999a170-68dc-4b97-8ced-9dca1cfaf9cd.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.04a33b843dbd48bca9b6f2f397afc590",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506",
+          "title": "Why the  NINJA blender is awesome!",
+          "profile_image_url": "https://m.media-amazon.com/images/I/C1ZoNDWIGyL._CR79,0,2316,2316_._FMjpg_.jpg",
+          "profile_link": "/shop/debsdiary",
+          "public_name": "Debbie",
+          "creator_type": "Influencer",
+          "vendor_code": "debsdiary:shop",
+          "vendor_name": "Debbie",
+          "vendor_tracking_id": "onamzdebo0e87-20",
+          "video_image_id": "61N8yV8YjzL",
+          "video_image_url": "https://m.media-amazon.com/images/I/61N8yV8YjzL._CR0,0,640,361_SR342,193_.jpg",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61N8yV8YjzL.jpg",
+          "video_image_width": "640",
+          "video_image_height": "1137",
+          "video_image_extension": "jpg",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75406a4b-ac92-447a-bc01-a4d9b4547d26/default.vertical.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4dea631-5b8f-45dd-b4ee-9aec956627fd/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4dea631-5b8f-45dd-b4ee-9aec956627fd/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4dea631-5b8f-45dd-b4ee-9aec956627fd/c24d649b-cfed-4c71-b8f4-05e87c1dfc80/04a33b843dbd48bca9b6f2f397afc590_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "1:14",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/978c5419-1874-453c-bdb5-3cf2c0015990.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.0ba5d382134447c4ac31dd38bb93c7ac",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506",
+          "title": "User friendly, easy to clean, powerful!",
+          "profile_image_url": "https://m.media-amazon.com/images/I/B1Ok2aYg84L._CR251,0,1536,1536_._FMjpg_.jpg",
+          "profile_link": "/shop/influencer-2f8506cc",
+          "public_name": "Vanessa skoubye",
+          "creator_type": "Influencer",
+          "vendor_code": "influencer-2f8506cc:shop",
+          "vendor_name": "Vanessa skoubye",
+          "vendor_tracking_id": "onamzvan0fb9b-20",
+          "video_image_id": "71NnTlIatXL",
+          "video_image_url": "https://m.media-amazon.com/images/I/71NnTlIatXL._CR0,0,640,361_SR342,193_.jpg",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71NnTlIatXL.jpg",
+          "video_image_width": "640",
+          "video_image_height": "1137",
+          "video_image_extension": "jpg",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11c50773-f254-42c1-8d5f-6ace7cd71e71/default.vertical.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/757ea165-445f-41e4-a022-a257a54d8174/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/757ea165-445f-41e4-a022-a257a54d8174/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/757ea165-445f-41e4-a022-a257a54d8174/653e734c-b5cc-4a29-b0c2-43e134e188c2/0ba5d382134447c4ac31dd38bb93c7ac_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "2:15",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/445e1f2b-055b-42c8-b2c3-7031f53321fc.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.05842edfd437414faea3bfdaaa095fdd",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506",
+          "title": "My Dream Blender For Smooth Frozen Beverages ",
+          "profile_image_url": "https://m.media-amazon.com/images/I/C1GDbRF3KzL._CR651,546,1871,1871_._FMjpg_.jpg",
+          "profile_link": "/shop/abundancevisionary",
+          "public_name": "Erica S.",
+          "creator_type": "Influencer",
+          "vendor_code": "abundancevisionary:shop",
+          "vendor_name": "Erica S.",
+          "vendor_tracking_id": "onamzericasas-20",
+          "video_image_id": "71l3BDFcBqL",
+          "video_image_url": "https://m.media-amazon.com/images/I/71l3BDFcBqL._CR0,0,640,361_SR342,193_.jpg",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71l3BDFcBqL.jpg",
+          "video_image_width": "640",
+          "video_image_height": "1137",
+          "video_image_extension": "jpg",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/571eb4a3-fe6a-4340-b93f-25df085ac151/default.vertical.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6b5c520-2330-4786-bddd-7d0775050b2e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6b5c520-2330-4786-bddd-7d0775050b2e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6b5c520-2330-4786-bddd-7d0775050b2e/d0952028-3cb9-44b9-9419-713daebee7ec/05842edfd437414faea3bfdaaa095fdd_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "1:12",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/72130938-0a62-489d-a60a-f15dada03640.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.0817540f93104474a3ad52fe789257da",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506,B0CW6L4ZN8",
+          "title": "Honest review of Ninja Blender",
+          "profile_image_url": "https://m.media-amazon.com/images/I/91aN2ujA9LL._CR0,342,645,645_._FMjpg_.jpg",
+          "profile_link": "/shop/taryll_the_tax_guy",
+          "public_name": "Taryll",
+          "creator_type": "Influencer",
+          "vendor_code": "taryll_the_tax_guy:shop",
+          "vendor_name": "Taryll",
+          "vendor_tracking_id": "onamztaryllca-20",
+          "video_image_id": "61PD72HhvVL",
+          "video_image_url": "https://m.media-amazon.com/images/I/61PD72HhvVL._CR0,0,640,361_SR342,193_.jpg",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61PD72HhvVL.jpg",
+          "video_image_width": "640",
+          "video_image_height": "1137",
+          "video_image_extension": "jpg",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/311d8753-9654-473e-b21b-87d9587643ec/default.vertical.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4f4218c-2208-4e70-9609-0b808c4b9fe2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4f4218c-2208-4e70-9609-0b808c4b9fe2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "1:20",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ff67713a-9c8d-4fc6-bd96-38d53856ad39.vtt",
+          "type": "videos_for_related_products"
+        },
+        {
+          "id": "amzn1.vse.video.087b675fcc114e038130088f04fc1344",
+          "product_asin": "B00NGV4506",
+          "parent_asin": "B0D3HM2B89",
+          "related_products": "B00NGV4506,B0CW6L4ZN8",
+          "title": "Ninja Blender- Honest Review ",
+          "profile_image_url": "https://m.media-amazon.com/images/I/71fE7MSjcqL._CR0,102,480,480_._FMjpg_.jpg",
+          "profile_link": "/shop/gabylamb",
+          "public_name": "Gaby Eves",
+          "creator_type": "Influencer",
+          "vendor_code": "gabylamb:shop",
+          "vendor_name": "Gaby Eves",
+          "vendor_tracking_id": "onamzgabyeves-20",
+          "video_image_id": "91o+Xz-rf2L",
+          "video_image_url": "https://m.media-amazon.com/images/I/91o+Xz-rf2L._CR2,0,1276,720_SR684,386_.png",
+          "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91o+Xz-rf2L.png",
+          "video_image_width": "1280",
+          "video_image_height": "720",
+          "video_image_extension": "png",
+          "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e5c4716-c653-45b7-8ab9-a41c54db3313/default.vertical.jobtemplate.hls.m3u8",
+          "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9359b337-ce67-4829-a539-dfb8fb5cd374/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9359b337-ce67-4829-a539-dfb8fb5cd374/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9359b337-ce67-4829-a539-dfb8fb5cd374/32ff1203-2933-491a-b3b6-0553053e9534/087b675fcc114e038130088f04fc1344_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+          "video_mime_type": "application/x-mpegURL",
+          "duration": "1:28",
+          "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/98e01230-90d3-4f7b-96e7-2b5d222d6e5f.vtt",
+          "type": "videos_for_related_products"
+        }
+      ],
+      "is_bundle": false,
+      "feature_bullets": [
+        "PROFESSIONAL POWER: 1000 watts of professional power can crush ice and breakdown any tough ingredient.Power source : Corded Electric.Amperage : 12.5 amps",
+        "XL CAPACITY: The 72 oz professional blender pitcher is excellent for making frozen drinks and creamy smoothies for the entire family. 64 oz. max liquid capacity",
+        "INTELLIGENT TECHNOLOGY: Total Crushing Technology delivers unbeatable power with blades that pulverize and crush through ice, whole fruits and vegetables in seconds.",
+        "ICE CRUSHING: Blast ice into snow in seconds and blend your favorite ingredients into delicious resort-style frozen drinks",
+        "RECIPE INSPIRATION: The included recipe guide provides drink and dish making inspiration.",
+        "EASY CLEANUP: Pitcher is BPA free and dishwasher safe, making cleanup just as simple and easy as using the blender.",
+        "WHAT'S INCLUDED: 1000 Watt Motor Base Professional Blender & 72 oz Total Crushing Pitcher with Lid."
+      ],
+      "feature_bullets_count": 7,
+      "feature_bullets_flat": "WHAT'S INCLUDED: 1000 Watt Motor Base Professional Blender & 72 oz Total Crushing Pitcher with Lid. EASY CLEANUP: Pitcher is BPA free and dishwasher safe, making cleanup just as simple and easy as using the blender. RECIPE INSPIRATION: The included recipe guide provides drink and dish making inspiration. ICE CRUSHING: Blast ice into snow in seconds and blend your favorite ingredients into delicious resort-style frozen drinks. INTELLIGENT TECHNOLOGY: Total Crushing Technology delivers unbeatable power with blades that pulverize and crush through ice, whole fruits and vegetables in seconds. XL CAPACITY: The 72 oz professional blender pitcher is excellent for making frozen drinks and creamy smoothies for the entire family. 64 oz. max liquid capacity. PROFESSIONAL POWER: 1000 watts of professional power can crush ice and breakdown any tough ingredient.Power source : Corded Electric.Amperage : 12.5 amps.",
+      "attributes": [
+        {
+          "name": "Brand",
+          "value": "Ninja"
+        },
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Special Feature",
+          "value": "Lightweight"
+        },
+        {
+          "name": "Capacity",
+          "value": "72 Fluid Ounces"
+        },
+        {
+          "name": "Product Dimensions",
+          "value": "10.71\"D x 8.27\"W x 15.94\"H"
+        }
+      ],
+      "top_reviews": [
+        {
+          "id": "R1RHQVOTO1R5WR",
+          "title": "Powerhouse of a Blender",
+          "body": "The Ninja BL610 Professional 1000-Watt Blender has truly revolutionized my kitchen, and I can't help but sing its praises. This countertop blender is a powerful workhorse, equipped with a 1000-watt base and the innovative Total Crushing Technology. It's proven to be an essential kitchen companion, enabling me to create a wide variety of culinary delights with ease.  Impressive Power: With its 1000-watt motor, the Ninja BL610 is a force to be reckoned with. It effortlessly crushes and blends even the toughest ingredients, turning ice into snow and handling frozen fruits and vegetables without a hitch. This blender is a powerhouse, making it a valuable addition to any kitchen.  Total Crushing Technology: The Total Crushing Technology sets this blender apart. It quickly pulverizes ice, whole fruits, and vegetables into a smooth and consistent texture, ideal for creating creamy smoothies, soups, and sauces. The end result is a velvety, uniform blend that's restaurant-quality.  Large Capacity: The 72-ounce pitcher is spacious and allows for generous servings, making it perfect for families or entertaining guests. It eliminates the need to blend in multiple batches, saving both time and effort.  Ease of Use: The Ninja BL610 is remarkably user-friendly. It features straightforward buttons and a no-nonsense design. The blender jar and blade assembly are easy to clean, and the parts are dishwasher-safe, which simplifies the cleaning process.  Versatility: This blender is incredibly versatile. Whether you're whipping up a nutritious smoothie, creating homemade salsa, or experimenting with more complex recipes, the Ninja BL610 can handle it all. It's an excellent tool for creative cooks and those looking to diversify their culinary skills.  Build Quality: Ninja is renowned for producing durable kitchen appliances, and the BL610 is no exception. It's built to withstand regular use and maintain its high-performance standards over time.  The only con I can think of is the noise level, it's not overly loud, but it is noticeable louder than other regular Oster blenders, for example. But, since it is not an appliance that is on all the but but rather for short bursts, I don't mind.  In conclusion, the Ninja BL610 Professional 1000-Watt Blender is a kitchen marvel that has taken my cooking and meal preparation to a whole new level. It's a powerhouse, effortlessly crushing and blending ingredients with its Total Crushing Technology, and its generous capacity makes it ideal for family use. The ease of use, versatility, and durability of this blender make it a five-star addition to any kitchen. If you're in search of a blender that delivers consistent results and can handle a wide range of culinary tasks, the Ninja BL610 is an excellent choice. It's a kitchen workhorse that I wholeheartedly recommend.Read more",
+          "asin": "B00NGV4506",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Ninja BL610 Professional 1000-Watt Blender has truly revolutionized my kitchen, and I can't help but sing its praises. This countertop blender is a powerful workhorse, equipped with a 1000-watt base and the innovative Total Crushing Technology. It's proven to be an essential kitchen companion, enabling me to create a wide variety of culinary delights with ease.<br><br>Impressive Power:<br>With its 1000-watt motor, the Ninja BL610 is a force to be reckoned with. It effortlessly crushes and blends even the toughest ingredients, turning ice into snow and handling frozen fruits and vegetables without a hitch. This blender is a powerhouse, making it a valuable addition to any kitchen.<br><br>Total Crushing Technology:<br>The Total Crushing Technology sets this blender apart. It quickly pulverizes ice, whole fruits, and vegetables into a smooth and consistent texture, ideal for creating creamy smoothies, soups, and sauces. The end result is a velvety, uniform blend that's restaurant-quality.<br><br>Large Capacity:<br>The 72-ounce pitcher is spacious and allows for generous servings, making it perfect for families or entertaining guests. It eliminates the need to blend in multiple batches, saving both time and effort.<br><br>Ease of Use:<br>The Ninja BL610 is remarkably user-friendly. It features straightforward buttons and a no-nonsense design. The blender jar and blade assembly are easy to clean, and the parts are dishwasher-safe, which simplifies the cleaning process.<br><br>Versatility:<br>This blender is incredibly versatile. Whether you're whipping up a nutritious smoothie, creating homemade salsa, or experimenting with more complex recipes, the Ninja BL610 can handle it all. It's an excellent tool for creative cooks and those looking to diversify their culinary skills.<br><br>Build Quality:<br>Ninja is renowned for producing durable kitchen appliances, and the BL610 is no exception. It's built to withstand regular use and maintain its high-performance standards over time.<br><br>The only con I can think of is the noise level, it's not overly loud, but it is noticeable louder than other regular Oster blenders, for example. But, since it is not an appliance that is on all the but but rather for short bursts, I don't mind.<br><br>In conclusion, the Ninja BL610 Professional 1000-Watt Blender is a kitchen marvel that has taken my cooking and meal preparation to a whole new level. It's a powerhouse, effortlessly crushing and blending ingredients with its Total Crushing Technology, and its generous capacity makes it ideal for family use. The ease of use, versatility, and durability of this blender make it a five-star addition to any kitchen. If you're in search of a blender that delivers consistent results and can handle a wide range of culinary tasks, the Ninja BL610 is an excellent choice. It's a kitchen workhorse that I wholeheartedly recommend.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R1RHQVOTO1R5WR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00NGV4506",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on October 22, 2023",
+            "utc": "2023-10-22T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "DANIEL A LIZARRAGA V",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEVWNV2FNQTY2D2FOC65EFXFOJYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AEVWNV2FNQTY2D2FOC65EFXFOJYA",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/66ae698a-5774-413c-9e6f-c381afc49376._CR0,0,375,375_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 73,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R3D5GOBH06WWEC",
+          "title": "Works great!",
+          "body": "This blender is a really good value for the money! It's really easy to assemble and blends things pretty well! It's also pretty easy to clean (just be careful with the blades)Read more",
+          "asin": "B00NGV4506",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This blender is a really good value for the money! It's really easy to assemble and blends things pretty well!<br>It's also pretty easy to clean (just be careful with the blades)</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R3D5GOBH06WWEC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00NGV4506",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on June 9, 2024",
+            "utc": "2024-06-09T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Joao",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH5XNMBL2B6VWHEJKLSBVP6MMJHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AH5XNMBL2B6VWHEJKLSBVP6MMJHA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R208JQPDYB3JSY",
+          "title": "Blend Like a Ninja",
+          "body": "Picture this: you're on a quest for the perfect smoothie, but your old blender is just not up to the task. Enter the Ninja BL610 Professional 72 Oz Countertop Blender, a true kitchen warrior armed with a 1000-watt base and Total Crushing Technology. As a smoothie enthusiast, I embarked on a blending adventure with the Ninja BL610, and boy, was it a game-changer! In this review, I'll share my personal experiences and unveil why this blender deserves a resounding 5 out of 5 stars.  First impressions matter, and the Ninja BL610 didn't disappoint. Its sleek, black design and sturdy construction gave an immediate impression of quality. With dimensions of 9.5 in L x 7.5 in W x 17 in H, it didn't take up much space on my countertop either.  But let's get down to business—the power. This blender's 1000-watt base is like a jet engine for your ingredients. Whether it's crushing ice, pulverizing frozen fruit, or blending tough greens, the Ninja BL610 handles it all effortlessly. I couldn't help but marvel at the speed and efficiency with which it transformed my ingredients into velvety smooth concoctions.  Now, let's talk about the real reason why I fell head over heels for the Ninja BL610—the smoothies! As a self-proclaimed smoothie aficionado, I've tried countless blenders, but this one takes the crown. Its Total Crushing Technology ensures every sip is a silky delight.  The 72 oz pitcher is more than generous, allowing me to whip up large batches of smoothies for the whole family or prepare ahead for the week. The pitcher's design and pour spout make serving a breeze, and its dishwasher-safe feature simplifies cleanup—a huge plus in my book.  But what truly amazed me was the Ninja BL610's ability to handle any ingredient I threw its way. From frozen berries to fibrous kale, it blitzed through everything effortlessly. I've never encountered a blender with such consistent and smooth results.  Now, let me share a funny mishap that occurred during my blending adventures with the Ninja BL610. One day, while in a hurry, I accidentally overloaded the pitcher with an excessive amount of ice. As soon as I turned it on, the blender let out a thunderous roar, and the lid popped off! Ice shards flew everywhere, creating a hilarious icy explosion in my kitchen. Lesson learned: always follow the recommended guidelines for ingredients.  Despite the occasional misadventure, the Ninja BL610's power and versatility never ceased to impress. From delicious smoothies to creamy soups and decadent desserts, this blender was my trusty sidekick in the kitchen.  In conclusion, the Ninja BL610 Professional 72 Oz Countertop Blender is a force to be reckoned with. Its power, durability, and ability to produce consistently smooth results make it a must-have kitchen appliance. Whether you're a smoothie enthusiast, a culinary adventurer, or simply someone who appreciates the joy of effortless blending, this blender is a game-changer. Even with a few amusing mishaps along the way, the Ninja BL610 earns a resounding 5 out of 5 stars in my book. Say goodbye to chunky smoothies and hello to blend perfection with the Ninja BL610!Read more",
+          "asin": "B00NGV4506",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Picture this: you're on a quest for the perfect smoothie, but your old blender is just not up to the task. Enter the Ninja BL610 Professional 72 Oz Countertop Blender, a true kitchen warrior armed with a 1000-watt base and Total Crushing Technology. As a smoothie enthusiast, I embarked on a blending adventure with the Ninja BL610, and boy, was it a game-changer! In this review, I'll share my personal experiences and unveil why this blender deserves a resounding 5 out of 5 stars.<br><br>First impressions matter, and the Ninja BL610 didn't disappoint. Its sleek, black design and sturdy construction gave an immediate impression of quality. With dimensions of 9.5 in L x 7.5 in W x 17 in H, it didn't take up much space on my countertop either.<br><br>But let's get down to business—the power. This blender's 1000-watt base is like a jet engine for your ingredients. Whether it's crushing ice, pulverizing frozen fruit, or blending tough greens, the Ninja BL610 handles it all effortlessly. I couldn't help but marvel at the speed and efficiency with which it transformed my ingredients into velvety smooth concoctions.<br><br>Now, let's talk about the real reason why I fell head over heels for the Ninja BL610—the smoothies! As a self-proclaimed smoothie aficionado, I've tried countless blenders, but this one takes the crown. Its Total Crushing Technology ensures every sip is a silky delight.<br><br>The 72 oz pitcher is more than generous, allowing me to whip up large batches of smoothies for the whole family or prepare ahead for the week. The pitcher's design and pour spout make serving a breeze, and its dishwasher-safe feature simplifies cleanup—a huge plus in my book.<br><br>But what truly amazed me was the Ninja BL610's ability to handle any ingredient I threw its way. From frozen berries to fibrous kale, it blitzed through everything effortlessly. I've never encountered a blender with such consistent and smooth results.<br><br>Now, let me share a funny mishap that occurred during my blending adventures with the Ninja BL610. One day, while in a hurry, I accidentally overloaded the pitcher with an excessive amount of ice. As soon as I turned it on, the blender let out a thunderous roar, and the lid popped off! Ice shards flew everywhere, creating a hilarious icy explosion in my kitchen. Lesson learned: always follow the recommended guidelines for ingredients.<br><br>Despite the occasional misadventure, the Ninja BL610's power and versatility never ceased to impress. From delicious smoothies to creamy soups and decadent desserts, this blender was my trusty sidekick in the kitchen.<br><br>In conclusion, the Ninja BL610 Professional 72 Oz Countertop Blender is a force to be reckoned with. Its power, durability, and ability to produce consistently smooth results make it a must-have kitchen appliance. Whether you're a smoothie enthusiast, a culinary adventurer, or simply someone who appreciates the joy of effortless blending, this blender is a game-changer. Even with a few amusing mishaps along the way, the Ninja BL610 earns a resounding 5 out of 5 stars in my book. Say goodbye to chunky smoothies and hello to blend perfection with the Ninja BL610!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R208JQPDYB3JSY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00NGV4506",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on May 22, 2023",
+            "utc": "2023-05-22T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Fadi Shamaan",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH2UZ52SQ4HSIYYUEBYBY6R76JEA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AH2UZ52SQ4HSIYYUEBYBY6R76JEA",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/bafaea8d-cdda-4301-b6c5-7f0ff8818a12._CR0,0,400,400_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 130,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R2H207DB26MHTK",
+          "title": "Powerful and Quiet",
+          "body": "I use my new Ninja blender every day to make healthy smoothies. The extra large capacity is a plus and it is easy to clean. The 3 levels of super sharp blades makes quick work of frozen fruit and vegetables. It has plenty of power and the noise factor is much less than my previous blender. This is a quality blender for a fraction of the price of other products on the market.Read more",
+          "asin": "B00NGV4506",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I use my new Ninja blender every day to make healthy smoothies. The extra large capacity is a plus and it is easy to clean. The 3 levels of super sharp blades makes quick work of frozen fruit and vegetables. It has plenty of power and the noise factor is much less than my previous blender. This is a quality blender for a fraction of the price of other products on the market.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R2H207DB26MHTK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00NGV4506",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on June 7, 2024",
+            "utc": "2024-06-07T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Chris K",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AE6BZL3MGOJXODUTYY7HT74D774Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AE6BZL3MGOJXODUTYY7HT74D774Q"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 2,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R2KTY6GLI0BABE",
+          "title": "Great and quick at crushing ice!",
+          "body": "Very pleased with how quickly this chops up the ice in my smoothies. Clean up is quick. Very sturdy! Noise is not overly loud compared to some blenders. My 28 yr old Hamilton Beach was louder and didn't chop up the ice so well even before it reached the old age mark!Read more",
+          "asin": "B00NGV4506",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very pleased with how quickly this chops up the ice in my smoothies. Clean up is quick. Very sturdy! Noise is not overly loud compared to some blenders. My 28 yr old Hamilton Beach was louder and didn't chop up the ice so well even before it reached the old age mark!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R2KTY6GLI0BABE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00NGV4506",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on June 9, 2024",
+            "utc": "2024-06-09T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Amazon Customer",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHNYZQFE25F4Z7QSZBUJT5EDURMQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AHNYZQFE25F4Z7QSZBUJT5EDURMQ"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R22BP1MLXEKMRW",
+          "title": "Artículo recomendado",
+          "body": "Es un buen artículo, fácil de usar, instructivo en español, llegó en el tiempo indicado y perfectas condiciones y lo encontré en un muy buen precioRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Es un buen artículo, fácil de usar, instructivo en español, llegó en el tiempo indicado y perfectas condiciones y lo encontré en un muy buen precio</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in Mexico on June 7, 2024",
+            "utc": "2024-06-07T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Christian"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "mx",
+          "is_global_review": true
+        },
+        {
+          "id": "R2L53VE76EA87Z",
+          "title": "Great blender",
+          "body": "3 tier blades make for fast blending, love my smoothiesRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>3 tier blades make for fast blending, love my smoothies</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in Canada on March 28, 2024",
+            "utc": "2024-03-28T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Amazon Customer"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "ca",
+          "is_global_review": true
+        },
+        {
+          "id": "RBF8J0D1D9D9Q",
+          "title": "Ótima qualidade",
+          "body": "Muito satisfeita com o produto,ótima qualidade, potência, produto excelente, recomendoRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Muito satisfeita com o produto,ótima qualidade, potência, produto excelente, recomendo</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in Brazil on February 10, 2024",
+            "utc": "2024-02-10T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Guilherme d."
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "br",
+          "is_global_review": true
+        },
+        {
+          "id": "R35M0N11PPB2NT",
+          "title": "WAYYY TOO EXPENSIVE! But absolutely amazing!",
+          "body": "As for the blender it's self, it's absolutely amazing 🤯 mind blown how good it is! Like for instance, if you want it for it's ice crushing, you seen the advert and thought hmmm no way its that good... well I can tell you it definitely IS that good, it seriously does turn ice in to perfect snow like consistency, it's exactly as good as the advert says, in just 2 minutes you can turn shop bought ice into completely lump free powdered snow, perfect for slushies or even sorbet ice cream, so smooth! Pretty much anything you put in there just add some ice and you have the perfect smoothie! Yes it's really that good, it's the best blender I've ever owned! It's super easy to use, super easy to clean, just amazing. But... here is the bad bits, it's noisy, I mean really REALLY noisy!! You definitely can't use this anywhere near someone that's sleeping and not wake them up!! So late night smoothies or slushies are a big no no. Then there is the price, its about double the price it should be, this should be priced at about £80 max, but it cost me way more, and to be honest I feel a bit robbed there. One last thing, if you buy this, just be super careful not to touch the blades, they are RAZOR sharp! Within just a few days of having it, I did accidentally slice myself open, they are crazy sharp, so be careful!! If you want one of the best ice to snow devices, this is it.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>As for the blender it's self, it's absolutely amazing 🤯 mind blown how good it is! Like for instance, if you want it for it's ice crushing, you seen the advert and thought hmmm no way its that good... well I can tell you it definitely IS that good, it seriously does turn ice in to perfect snow like consistency, it's exactly as good as the advert says, in just 2 minutes you can turn shop bought ice into completely lump free powdered snow, perfect for slushies or even sorbet ice cream, so smooth! Pretty much anything you put in there just add some ice and you have the perfect smoothie! Yes it's really that good, it's the best blender I've ever owned! It's super easy to use, super easy to clean, just amazing.<br>But... here is the bad bits, it's noisy, I mean really REALLY noisy!! You definitely can't use this anywhere near someone that's sleeping and not wake them up!! So late night smoothies or slushies are a big no no. Then there is the price, its about double the price it should be, this should be priced at about £80 max, but it cost me way more, and to be honest I feel a bit robbed there. One last thing, if you buy this, just be super careful not to touch the blades, they are RAZOR sharp! Within just a few days of having it, I did accidentally slice myself open, they are crazy sharp, so be careful!!<br>If you want one of the best ice to snow devices, this is it.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 4,
+          "date": {
+            "raw": "Reviewed in the United Kingdom on June 10, 2023",
+            "utc": "2023-06-10T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Fieldie"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "gb",
+          "is_global_review": true
+        },
+        {
+          "id": "R2OXV3819C7SH9",
+          "title": "No service, pathetic seller response. Worked for 2 months only",
+          "body": "Worked for 4 days. Since then there has been problems and the seller Grabmore has not cared to look into this since the last 4 months. The funny part is the sale happened on 8th April. and the return date is 16th April, by which date the product wudnt have reached. So basically this is no warranty. May be the product works for some, but definitely avoid this seller.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Worked for 4 days. Since then there has been problems and the seller Grabmore has not cared to look into this since the last 4 months. The funny part is the sale happened on 8th April. and the return date is 16th April, by which date the product wudnt have reached. So basically this is no warranty. May be the product works for some, but definitely avoid this seller.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 1,
+          "date": {
+            "raw": "Reviewed in India on August 20, 2017",
+            "utc": "2017-08-20T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "viswa"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 21,
+          "review_country": "in",
+          "is_global_review": true
+        }
+      ],
+      "buybox_winner": {
+        "maximum_order_quantity": {
+          "value": 30,
+          "hard_maximum": true
+        },
+        "secondary_buybox": {
+          "offer_id": "DOCc1RyCfAu%2FjMrrByH78y7c5ffa5PrkS%2Bu98bqFC6qovRN5pj9R%2Br%2FCoFSvsO4JeZtaLXC6%2F6odOkXhdgbHlK7Rm52OVS2LzfHsIdW3rQiZM%2Ff3Xw%2FMjQlVF3b1KJMX%2FrScf%2B6%2B3tGyWOvmjjBB3QWIwgo0uJQfO6P9XTUwqkY70Ww%2FJ9jl%2FdWJxH5L3ZzQ",
+          "caption": "Save with Used - Good",
+          "availability": {
+            "raw": "FREE delivery Monday, June 24"
+          }
+        },
+        "offer_id": "DOCc1RyCfAu/jMrrByH78y7c5ffa5PrkS+u98bqFC6qovRN5pj9R+r/CoFSvsO4JeZtaLXC6/6odOkXhdgbHlK7Rm52OVS2LzfHsIdW3rQiZM/f3Xw/MjQlVF3b1KJMX/rScf+6+3tGyWOvmjjBB3QWIwgo0uJQfO6P9XTUwqkY70Ww/J9jl/dWJxH5L3ZzQ",
+        "is_prime": true,
+        "is_prime_exclusive_deal": false,
+        "is_amazon_fresh": false,
+        "condition": {
+          "is_new": true
+        },
+        "availability": {
+          "type": "in_stock",
+          "raw": "In Stock",
+          "dispatch_days": 1
+        },
+        "fulfillment": {
+          "type": "1p",
+          "standard_delivery": {
+            "date": "Saturday, June 22",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "Wednesday, June 19",
+            "name": "Or fastest delivery Wednesday, June 19. Order within 15 hrs 28 mins"
+          },
+          "is_sold_by_amazon": true,
+          "amazon_seller": {
+            "name": "Amazon"
+          },
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "is_sold_by_third_party": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        },
+        "rrp": {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99"
+        },
+        "shipping": {
+          "raw": "FREE"
+        }
+      },
+      "specifications": [
+        {
+          "name": "Brand",
+          "value": "Ninja"
+        },
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Special Feature",
+          "value": "Lightweight"
+        },
+        {
+          "name": "Capacity",
+          "value": "72 Fluid Ounces"
+        },
+        {
+          "name": "Product Dimensions",
+          "value": "10.71\"D x 8.27\"W x 15.94\"H"
+        },
+        {
+          "name": "Material",
+          "value": "Glass, Plastic"
+        },
+        {
+          "name": "Included Components",
+          "value": "Recipe Guide, 72 oz. Total Crushing pitcher with lid, 1000 watt motor base"
+        },
+        {
+          "name": "Style",
+          "value": "Generation 2 (1000 Watts)"
+        },
+        {
+          "name": "Recommended Uses For Product",
+          "value": "Blending, Crushing, Ice Crush, Pureeing"
+        },
+        {
+          "name": "Power Source",
+          "value": "Electric"
+        },
+        {
+          "name": "Wattage",
+          "value": "1000 watts"
+        },
+        {
+          "name": "Number of Speeds",
+          "value": "4"
+        },
+        {
+          "name": "Voltage",
+          "value": "120 Volts"
+        },
+        {
+          "name": "Item Weight",
+          "value": "7.1 Pounds"
+        },
+        {
+          "name": "Material Type Free",
+          "value": "BPA Free"
+        },
+        {
+          "name": "Is Dishwasher Safe",
+          "value": "Yes"
+        },
+        {
+          "name": "Blade Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "name": "UPC",
+          "value": "622356536820"
+        },
+        {
+          "name": "Global Trade Identification Number",
+          "value": "00622356536820"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "SharkNinja"
+        },
+        {
+          "name": "Item Weight",
+          "value": "7.1 pounds"
+        },
+        {
+          "name": "ASIN",
+          "value": "B00NGV4506"
+        },
+        {
+          "name": "Country of Origin",
+          "value": "China"
+        },
+        {
+          "name": "Item model number",
+          "value": "BL610"
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "4.7 4.7 out of 5 stars       51,254 ratings          4.7 out of 5 stars"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#725 in Home & Kitchen (See Top 100 in Home & Kitchen) #22 in Kitchen Small Appliances"
+        },
+        {
+          "name": "Is Discontinued By Manufacturer",
+          "value": "No"
+        },
+        {
+          "name": "Date First Available",
+          "value": "September 10, 2014"
+        }
+      ],
+      "specifications_flat": "Date First Available: September 10, 2014. Is Discontinued By Manufacturer: No. Best Sellers Rank: #725 in Home & Kitchen (See Top 100 in Home & Kitchen) #22 in Kitchen Small Appliances. Customer Reviews: 4.7 4.7 out of 5 stars       51,254 ratings          4.7 out of 5 stars. Item model number: BL610. Country of Origin: China. ASIN: B00NGV4506. Item Weight: 7.1 pounds. Manufacturer: SharkNinja. Global Trade Identification Number: 00622356536820. UPC: 622356536820. Blade Material: Stainless Steel. Is Dishwasher Safe: Yes. Material Type Free: BPA Free. Item Weight: 7.1 Pounds. Voltage: 120 Volts. Number of Speeds: 4. Wattage: 1000 watts. Power Source: Electric. Recommended Uses For Product: Blending, Crushing, Ice Crush, Pureeing. Style: Generation 2 (1000 Watts). Included Components: Recipe Guide, 72 oz. Total Crushing pitcher with lid, 1000 watt motor base. Material: Glass, Plastic. Product Dimensions: 10.71\"D x 8.27\"W x 15.94\"H. Capacity: 72 Fluid Ounces. Special Feature: Lightweight. Color: Black. Brand: Ninja.",
+      "bestsellers_rank": [
+        {
+          "category": "Home & Kitchen",
+          "rank": 725,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden"
+        },
+        {
+          "category": "Kitchen Small Appliances",
+          "rank": 22,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/289913/ref=pd_zg_hrsr_home-garden"
+        }
+      ],
+      "color": "Black",
+      "material": "Stainless Steel",
+      "manufacturer": "SharkNinja",
+      "weight": "7.1 pounds",
+      "first_available": {
+        "raw": "September 10, 2014",
+        "utc": "2014-09-10T00:00:00.000Z"
+      },
+      "dimensions": "10.71\"D x 8.27\"W x 15.94\"H",
+      "model_number": "BL610",
+      "bestsellers_rank_flat": "Category: Home & Kitchen | Rank: 725, Category: Kitchen Small Appliances | Rank: 22"
+    },
+    "brand_store": {
+      "id": "4D837C13-1334-44EE-AD50-9586EE0F3873",
+      "link": "https://www.amazon.com/stores/Ninja/page/4D837C13-1334-44EE-AD50-9586EE0F3873"
+    },
+    "user_guide": "https://m.media-amazon.com/images/I/81ttNXV860L.pdf",
+    "frequently_bought_together": {
+      "total_price": {
+        "symbol": "$",
+        "value": 199.96,
+        "currency": "USD",
+        "raw": "$199.96"
+      },
+      "products": [
+        {
+          "asin": "B00NGV4506",
+          "title": "Ninja BL610 Professional 72 Oz Countertop 1000-Watt Base and Total Crushing Technology for Smoothies, Ice and Frozen Fruit, Black, Blender + Pitcher",
+          "link": "https://www.amazon.com/dp/B00NGV4506",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/71iD5RyhuaL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "$",
+            "value": 61.65,
+            "currency": "USD",
+            "raw": "$61.65"
+          }
+        }
+      ]
+    },
+    "similar_to_consider": {
+      "asin": "B07Q12PJYP",
+      "link": "https://www.amazon.com/dp/B07Q12PJYP/ref=vp_d_pb_TIER3_trans_lp_B00NGV4506_pd?_encoding=UTF8&pf_rd_p=1f224266-3cde-46d2-b9ba-087075670495&pf_rd_r=1THHAZTSCCZG9NJRVBXY&pd_rd_wg=O4aV8&pd_rd_i=B07Q12PJYP&pd_rd_w=EfzCD&content-id=amzn1.sym.1f224266-3cde-46d2-b9ba-087075670495&pd_rd_r=c2b2961c-0646-4460-ac8a-690220574f6a&psc=1",
+      "title": "Amazon Basics 500 Watt Multi-Speed Immersion Hand Blender, Silver",
+      "rating": 4.5,
+      "ratings_total": 7762,
+      "image": "https://m.media-amazon.com/images/I/71UlX3f+4WL._SS100_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 33.41,
+        "currency": "USD",
+        "raw": "$33.41"
+      },
+      "is_prime": true
+    },
+    "also_bought": [
+      {
+        "title": "Ninja BL621 Professional Blender & Nutri Ninja Cups 1100 Watts, Black (Renewed)",
+        "asin": "B07PNLB658",
+        "link": "https://www.amazon.com/Ninja-BL621-Professional-Blender-Renewed/dp/B07PNLB658/ref=pd_pss_dp_d_1_d_sccl_2_1/144-7965693-3014629?pd_rd_w=8esmZ&content-id=amzn1.sym.427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_p=427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_r=1THHAZTSCCZG9NJRVBXY&pd_rd_wg=GKGTT&pd_rd_r=842615aa-46be-437b-91b5-c070e4c514c9&pd_rd_i=B07PNLB658&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71AquTWaqoL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.7,
+        "ratings_total": 246,
+        "price": {
+          "symbol": "$",
+          "value": 139.97,
+          "currency": "USD",
+          "raw": "$139.97"
+        }
+      },
+      {
+        "title": "Ninja Personal Blender for Shakes, Smoothies, Food Prep, and Frozen Blending with 700-Watt Base and (2) 16-Ounce Cups with Sp",
+        "asin": "B07B4DRV7S",
+        "link": "https://www.amazon.com/Personal-Smoothies-Blending-Certified-Refurbished/dp/B07B4DRV7S/ref=pd_pss_dp_d_1_d_sccl_2_2/144-7965693-3014629?pd_rd_w=8esmZ&content-id=amzn1.sym.427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_p=427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_r=1THHAZTSCCZG9NJRVBXY&pd_rd_wg=GKGTT&pd_rd_r=842615aa-46be-437b-91b5-c070e4c514c9&pd_rd_i=B07B4DRV7S&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81VJBtDiJcL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.5,
+        "ratings_total": 210,
+        "price": {
+          "symbol": "$",
+          "value": 54.95,
+          "currency": "USD",
+          "raw": "$54.95"
+        }
+      },
+      {
+        "title": "Ninja HB150C/HB152 Foodi Heat-iQ Blender, 64 oz, Black",
+        "asin": "B07S65293D",
+        "link": "https://www.amazon.com/Ninja-Blender-Smoothies-Nonstick-HB152/dp/B07S65293D/ref=pd_pss_dp_d_1_d_sccl_2_3/144-7965693-3014629?pd_rd_w=8esmZ&content-id=amzn1.sym.427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_p=427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_r=1THHAZTSCCZG9NJRVBXY&pd_rd_wg=GKGTT&pd_rd_r=842615aa-46be-437b-91b5-c070e4c514c9&pd_rd_i=B07S65293D&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71zf-yTtADL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "ratings_total": 3574,
+        "price": {
+          "symbol": "$",
+          "value": 198,
+          "currency": "USD",
+          "raw": "$198.00"
+        }
+      },
+      {
+        "title": "Ninja Nutri Blender Duo with Auto-iQ, 72 oz, Black",
+        "asin": "B00NGV49M0",
+        "link": "https://www.amazon.com/SharkNinja-BL641-Blender-Black-Silver/dp/B00NGV49M0/ref=pd_pss_dp_d_1_d_sccl_2_4/144-7965693-3014629?pd_rd_w=8esmZ&content-id=amzn1.sym.427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_p=427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_r=1THHAZTSCCZG9NJRVBXY&pd_rd_wg=GKGTT&pd_rd_r=842615aa-46be-437b-91b5-c070e4c514c9&pd_rd_i=B00NGV49M0&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/818cnXz5quL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "ratings_total": 241,
+        "price": {
+          "symbol": "$",
+          "value": 182.84,
+          "currency": "USD",
+          "raw": "$182.84"
+        }
+      },
+      {
+        "title": "Ninja QB900B Master Prep Food Processor Blender with 48 oz Pitcher & 16 oz Chopping Bowl, Perfect for Frozen Blending & Chopp",
+        "asin": "B003XU3C7M",
+        "link": "https://www.amazon.com/Ninja-Blenders-Countertop-48-oz-Gray/dp/B003XU3C7M/ref=pd_pss_dp_d_1_d_sccl_2_5/144-7965693-3014629?pd_rd_w=8esmZ&content-id=amzn1.sym.427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_p=427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_r=1THHAZTSCCZG9NJRVBXY&pd_rd_wg=GKGTT&pd_rd_r=842615aa-46be-437b-91b5-c070e4c514c9&pd_rd_i=B003XU3C7M&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/510ns57kwdL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "ratings_total": 23496,
+        "price": {
+          "symbol": "$",
+          "value": 34,
+          "currency": "USD",
+          "raw": "$34.00"
+        }
+      },
+      {
+        "title": "Nutri Ninja (Auto-iQ Blender, BL480)",
+        "asin": "B06XGG2DY8",
+        "link": "https://www.amazon.com/Nutri-Ninja-Auto-iQ-Blender-BL480/dp/B06XGG2DY8/ref=pd_pss_dp_d_1_d_sccl_2_6/144-7965693-3014629?pd_rd_w=8esmZ&content-id=amzn1.sym.427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_p=427cdbb1-779c-4be6-8c9b-81ddadc2ade4&pf_rd_r=1THHAZTSCCZG9NJRVBXY&pd_rd_wg=GKGTT&pd_rd_r=842615aa-46be-437b-91b5-c070e4c514c9&pd_rd_i=B06XGG2DY8&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71GbgCR95aL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.3,
+        "ratings_total": 120,
+        "price": {
+          "symbol": "$",
+          "value": 109.46,
+          "currency": "USD",
+          "raw": "$109.46"
+        }
+      }
+    ]
+  }

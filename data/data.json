@@ -1,0 +1,667 @@
+{
+    "demo_message": "* Demo results are truncated for brevity *",
+    "request_parameters": {
+      "amazon_domain": "amazon.com",
+      "type": "search",
+      "search_term": "vitamix"
+    },
+    "request_metadata": {
+      "amazon_url": "https://www.amazon.com/s/?k=vitamix&ref=nb_sb_noss_2"
+    },
+    "search_results": [
+      {
+        "position": 1,
+        "title": "Ninja BL610 Professional 72 Oz Countertop 1000-Watt Base and Total Crushing Technology for Smoothies, Ice and Frozen Fruit, Black, Blender + Pitcher",
+        "asin": "B00NGV4506",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNDUyNjY1NTQ0OTcxODU2OjE3MTg1NDQ1MTc6c3BfYXRmOjMwMDE4MzQzNTM0NTcwMjo6MDo6&url=%2FNinja-Professional-Countertop-Technology-BL610%2Fdp%2FB00NGV4506%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZEgdv-0KJ3OFvus7gZBbuLKCPj6foNlbmBW8PXqHjf4QdSs3D62TOibaHf2Tlo5ePbVoPfZJWVz5k7mPnaYjIvqV6WJB_pZbLHHRTboO4ZJ1ZWUMfrcpICD-GLAmCmoyktWpZewE1UjcfCa-QG3hG8zsjlUSA1VBzev6WBDz8HUNxFeD03rzYQJUxYL_gzoRGvpdactD1NKK8jAwEUOMqhpIrMhKQvX1dFiResxlM8w.ZodFC3_DJJlfQ0jTQafF-SAj7s-Xm2ixImRvPnCqG5g%26dib_tag%3Dse%26keywords%3Dvitamix%26qid%3D1718544517%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+        "recent_sales": "10K+ bought in past month",
+        "brand": "Ninja",
+        "categories": [
+          {
+            "name": "All Departments",
+            "id": "aps"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/71iD5RyhuaL._AC_UY218_.jpg",
+        "is_prime": true,
+        "rating": 4.7,
+        "ratings_total": 51254,
+        "sponsored": true,
+        "prices": [
+          {
+            "symbol": "$",
+            "value": 79.99,
+            "currency": "USD",
+            "raw": "$79.99",
+            "name": "Primary",
+            "is_primary": true
+          },
+          {
+            "symbol": "$",
+            "value": 99.99,
+            "currency": "USD",
+            "raw": "$99.99",
+            "name": "Original",
+            "is_rrp": true
+          }
+        ],
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99",
+          "name": "Primary",
+          "is_primary": true
+        }
+      },
+      {
+        "position": 2,
+        "title": "Ninja BN701 Professional Plus Blender, 1400 Peak Watts, 3 Functions for Smoothies, Frozen Drinks & Ice Cream with Auto IQ, 72-oz.* Total Crushing Pitcher & Lid, Dark Grey",
+        "asin": "B0855B5Z6F",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNDUyNjY1NTQ0OTcxODU2OjE3MTg1NDQ1MTc6c3BfYXRmOjMwMDE4MzQ0ODUzNDcwMjo6MDo6&url=%2FNinja-BN701-Professional-capacity-Crushing%2Fdp%2FB0855B5Z6F%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZEgdv-0KJ3OFvus7gZBbuLKCPj6foNlbmBW8PXqHjf4QdSs3D62TOibaHf2Tlo5ePbVoPfZJWVz5k7mPnaYjIvqV6WJB_pZbLHHRTboO4ZJ1ZWUMfrcpICD-GLAmCmoyktWpZewE1UjcfCa-QG3hG8zsjlUSA1VBzev6WBDz8HUNxFeD03rzYQJUxYL_gzoRGvpdactD1NKK8jAwEUOMqhpIrMhKQvX1dFiResxlM8w.ZodFC3_DJJlfQ0jTQafF-SAj7s-Xm2ixImRvPnCqG5g%26dib_tag%3Dse%26keywords%3Dvitamix%26qid%3D1718544517%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+        "recent_sales": "5K+ bought in past month",
+        "brand": "Ninja",
+        "categories": [
+          {
+            "name": "All Departments",
+            "id": "aps"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/714AwxiuijL._AC_UY218_.jpg",
+        "deal": {
+          "link": "https://www.amazon.com/gp/goldbox/",
+          "badge_text": "Limited time deal"
+        },
+        "is_prime": true,
+        "rating": 4.7,
+        "ratings_total": 16019,
+        "sponsored": true,
+        "prices": [
+          {
+            "symbol": "$",
+            "value": 84.99,
+            "currency": "USD",
+            "raw": "$84.99",
+            "name": "Limited time deal",
+            "is_primary": true
+          },
+          {
+            "symbol": "$",
+            "value": 119.99,
+            "currency": "USD",
+            "raw": "$119.99",
+            "name": "Limited time deal",
+            "is_rrp": true
+          }
+        ],
+        "price": {
+          "symbol": "$",
+          "value": 84.99,
+          "currency": "USD",
+          "raw": "$84.99",
+          "name": "Limited time deal",
+          "is_primary": true
+        }
+      },
+      {
+        "position": 3,
+        "title": "Vitamix 5200 Blender, Professional-Grade, Container, Self-Cleaning 64 oz, Black/Grey",
+        "asin": "B008H4SLV6",
+        "link": "https://www.amazon.com/Vitamix-Blender-Professional-Grade-Container-Black/dp/B008H4SLV6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.ZEgdv-0KJ3OFvus7gZBbuLKCPj6foNlbmBW8PXqHjf4QdSs3D62TOibaHf2Tlo5ePbVoPfZJWVz5k7mPnaYjIvqV6WJB_pZbLHHRTboO4ZJ1ZWUMfrcpICD-GLAmCmoyktWpZewE1UjcfCa-QG3hG8zsjlUSA1VBzev6WBDz8HUNxFeD03rzYQJUxYL_gzoRGvpdactD1NKK8jAwEUOMqhpIrMhKQvX1dFiResxlM8w.ZodFC3_DJJlfQ0jTQafF-SAj7s-Xm2ixImRvPnCqG5g&dib_tag=se&keywords=vitamix&qid=1718544517&sr=8-3",
+        "recent_sales": "3K+ bought in past month",
+        "brand": "Vitamix",
+        "categories": [
+          {
+            "name": "All Departments",
+            "id": "aps"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/51Irf45adqL._AC_UY218_.jpg",
+        "is_prime": true,
+        "rating": 4.6,
+        "ratings_total": 7426,
+        "prices": [
+          {
+            "symbol": "$",
+            "value": 407.67,
+            "currency": "USD",
+            "raw": "$407.67",
+            "name": "Primary",
+            "is_primary": true
+          },
+          {
+            "symbol": "$",
+            "value": 549.99,
+            "currency": "USD",
+            "raw": "$549.99",
+            "name": "Original",
+            "is_rrp": true
+          }
+        ],
+        "price": {
+          "symbol": "$",
+          "value": 407.67,
+          "currency": "USD",
+          "raw": "$407.67",
+          "name": "Primary",
+          "is_primary": true
+        }
+      },
+      {
+        "position": 4,
+        "title": "Vitamix E310 Explorian Blender, Professional-Grade, 48 Oz. Container, Black",
+        "asin": "B0758JHZM3",
+        "link": "https://www.amazon.com/Vitamix-E310-Explorian-Professional-Grade-Container/dp/B0758JHZM3/ref=sr_1_4?dib=eyJ2IjoiMSJ9.ZEgdv-0KJ3OFvus7gZBbuLKCPj6foNlbmBW8PXqHjf4QdSs3D62TOibaHf2Tlo5ePbVoPfZJWVz5k7mPnaYjIvqV6WJB_pZbLHHRTboO4ZJ1ZWUMfrcpICD-GLAmCmoyktWpZewE1UjcfCa-QG3hG8zsjlUSA1VBzev6WBDz8HUNxFeD03rzYQJUxYL_gzoRGvpdactD1NKK8jAwEUOMqhpIrMhKQvX1dFiResxlM8w.ZodFC3_DJJlfQ0jTQafF-SAj7s-Xm2ixImRvPnCqG5g&dib_tag=se&keywords=vitamix&qid=1718544517&sr=8-4",
+        "recent_sales": "600+ bought in past month",
+        "brand": "Vitamix",
+        "availability": {
+          "raw": "Only 3 left in stock - order soon."
+        },
+        "categories": [
+          {
+            "name": "All Departments",
+            "id": "aps"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/710037deVKL._AC_UY218_.jpg",
+        "rating": 4.6,
+        "ratings_total": 5134,
+        "prices": [
+          {
+            "symbol": "$",
+            "value": 379.95,
+            "currency": "USD",
+            "raw": "$379.95",
+            "asin": "B0758JHZM3",
+            "link": "https://www.amazon.com/Vitamix-E310-Explorian-Professional-Grade-Container/dp/B0758JHZM3/ref=sr_1_4?dib=eyJ2IjoiMSJ9.ZEgdv-0KJ3OFvus7gZBbuLKCPj6foNlbmBW8PXqHjf4QdSs3D62TOibaHf2Tlo5ePbVoPfZJWVz5k7mPnaYjIvqV6WJB_pZbLHHRTboO4ZJ1ZWUMfrcpICD-GLAmCmoyktWpZewE1UjcfCa-QG3hG8zsjlUSA1VBzev6WBDz8HUNxFeD03rzYQJUxYL_gzoRGvpdactD1NKK8jAwEUOMqhpIrMhKQvX1dFiResxlM8w.ZodFC3_DJJlfQ0jTQafF-SAj7s-Xm2ixImRvPnCqG5g&dib_tag=se&keywords=vitamix&qid=1718544517&sr=8-4"
+          }
+        ],
+        "price": {
+          "symbol": "$",
+          "value": 379.95,
+          "currency": "USD",
+          "raw": "$379.95",
+          "asin": "B0758JHZM3",
+          "link": "https://www.amazon.com/Vitamix-E310-Explorian-Professional-Grade-Container/dp/B0758JHZM3/ref=sr_1_4?dib=eyJ2IjoiMSJ9.ZEgdv-0KJ3OFvus7gZBbuLKCPj6foNlbmBW8PXqHjf4QdSs3D62TOibaHf2Tlo5ePbVoPfZJWVz5k7mPnaYjIvqV6WJB_pZbLHHRTboO4ZJ1ZWUMfrcpICD-GLAmCmoyktWpZewE1UjcfCa-QG3hG8zsjlUSA1VBzev6WBDz8HUNxFeD03rzYQJUxYL_gzoRGvpdactD1NKK8jAwEUOMqhpIrMhKQvX1dFiResxlM8w.ZodFC3_DJJlfQ0jTQafF-SAj7s-Xm2ixImRvPnCqG5g&dib_tag=se&keywords=vitamix&qid=1718544517&sr=8-4"
+        }
+      }
+    ],
+    "category_information": {
+      "is_landing_page": false
+    },
+    "related_searches": [
+      {
+        "query": "vitamix blender",
+        "link": "https://www.amazon.com/s/?k=vitamix+blender&ref=sugsr_0&pd_rd_w=9kbVJ&content-id=amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b:amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_p=3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=de63D&pd_rd_r=568062c8-3f3f-4111-be55-a8ec2f922ecc&qid=1718544517"
+      },
+      {
+        "query": "vitamix e520",
+        "link": "https://www.amazon.com/s/?k=vitamix+e520&ref=sugsr_3&pd_rd_w=9kbVJ&content-id=amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b:amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_p=3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=de63D&pd_rd_r=568062c8-3f3f-4111-be55-a8ec2f922ecc&qid=1718544517"
+      },
+      {
+        "query": "blender",
+        "link": "https://www.amazon.com/s/?k=blender&ref=sugsr_1&pd_rd_w=9kbVJ&content-id=amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b:amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_p=3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=de63D&pd_rd_r=568062c8-3f3f-4111-be55-a8ec2f922ecc&qid=1718544517"
+      },
+      {
+        "query": "nutribullet",
+        "link": "https://www.amazon.com/s/?k=nutribullet&ref=sugsr_4&pd_rd_w=9kbVJ&content-id=amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b:amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_p=3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=de63D&pd_rd_r=568062c8-3f3f-4111-be55-a8ec2f922ecc&qid=1718544517"
+      },
+      {
+        "query": "blendtec",
+        "link": "https://www.amazon.com/s/?k=blendtec&ref=sugsr_2&pd_rd_w=9kbVJ&content-id=amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b:amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_p=3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=de63D&pd_rd_r=568062c8-3f3f-4111-be55-a8ec2f922ecc&qid=1718544517"
+      },
+      {
+        "query": "ninja",
+        "link": "https://www.amazon.com/s/?k=ninja&ref=sugsr_5&pd_rd_w=9kbVJ&content-id=amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b:amzn1.sym.3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_p=3e23f907-b859-4094-8b45-cf96f8c9286b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=de63D&pd_rd_r=568062c8-3f3f-4111-be55-a8ec2f922ecc&qid=1718544517"
+      }
+    ],
+    "refinements": {
+      "prime": [
+        {
+          "name": "Free Shipping by Amazon",
+          "value": "n:1055398||p_76/1249155011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_76%3A1249155011&dc&qid=1718544517&rnid=1249153011&ref=sr_nr_p_76_1&ds=v1%3AxBGgCGbBSxKCpih%2FWdfand%2FmWkzTjv3M5ip5tjVmSJA",
+          "refinement_display_name": "Prime"
+        }
+      ],
+      "delivery": [
+        {
+          "name": "Get It by Tomorrow",
+          "value": "p_90/8308921011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=p_90%3A8308921011&dc&qid=1718544517&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3ABixP9O4O9qJjRLYBMal0R6wW5wbh8QtO8Tp%2BEIqnW10",
+          "refinement_display_name": "Delivery"
+        }
+      ],
+      "departments": [
+        {
+          "name": "Kitchen Small Appliances",
+          "value": "n/289913",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A289913&dc&qid=1718544517&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3A2FPguIVdDFQuzT3WuOW%2FlNbT5Pc5KvYli9emhOQEz%2Bo",
+          "refinement_display_name": "Departments"
+        },
+        {
+          "name": "Countertop Blenders",
+          "value": "n/289915",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A289913%2Cn%3A289915&dc&qid=1718544517&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3AWEWt7nJTXxtKGfveH6SD0LZe8a3DMZIxto8xbeO98rY",
+          "refinement_display_name": "Departments"
+        },
+        {
+          "name": "Food Processors",
+          "value": "n/289920",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A289913%2Cn%3A289920&dc&qid=1718544517&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3ADKJeUsEBEBtGcH4W%2BDQwLTD8L%2Bap4rbYnes7uZsUM8M",
+          "refinement_display_name": "Departments"
+        },
+        {
+          "name": "Hand Blenders",
+          "value": "n/289916",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A289913%2Cn%3A289916&dc&qid=1718544517&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3AHbsXXGFy%2FtXeRcjecGRWbUngREpu3YxQcSjhQIzB46w",
+          "refinement_display_name": "Departments"
+        },
+        {
+          "name": "Small Appliance Parts & Accessories",
+          "value": "n/1267449011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1267449011&dc&qid=1718544517&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3AJQdUe%2BX6LURCnA6crK138vie6LOaP7S7bs8MeDSiBDc",
+          "refinement_display_name": "Departments"
+        },
+        {
+          "name": "Blender Replacement Parts",
+          "value": "n/9425873011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1267449011%2Cn%3A9425873011&dc&qid=1718544517&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3A0ixV8OzdL6AOexRprvgOu0RKwJaYK93X0ngjFOWCkeM",
+          "refinement_display_name": "Departments"
+        }
+      ],
+      "reviews": [
+        {
+          "name": "4 Stars & Up",
+          "value": "n:1055398||p_72/1248915011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_72%3A1248915011&dc&qid=1718544517&rnid=1248913011&ref=sr_nr_p_72_1&ds=v1%3Atsk5AK%2FAUIvcFLzpn34cKYvwHGtDeH4FzznqqOEnrz0",
+          "refinement_display_name": "Reviews"
+        }
+      ],
+      "price": [
+        {
+          "name": "All Discounts",
+          "value": "p_n_deal_type/23566065011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=p_n_deal_type%3A23566065011&dc&qid=1718544517&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AZbtX6ZC4vi1gpw1%2FVZB%2BqOCEa8kc55QfpITljyBW7wE",
+          "refinement_display_name": "Price"
+        },
+        {
+          "name": "Today's Deals",
+          "value": "p_n_deal_type/23566064011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=p_n_deal_type%3A23566064011&dc&qid=1718544517&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3A1Gw9%2BmBVkqcv8xv1wGlNwbFDWtzfkPc36MG7TAGANg4",
+          "refinement_display_name": "Price"
+        }
+      ],
+      "brand": [
+        {
+          "name": "Vitamix",
+          "value": "n:1055398||p_123/233704",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A233704&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3ATbFiLTINiJKXo4vnB7nbt%2BJUnyeQ2Upo%2Bm0REqiZ0rQ",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "Ninja",
+          "value": "n:1055398||p_123/391646",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A391646&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3Ahuf80R4e8ELqqLi%2FNLIPRVuDvDlTfO0K4J3F76FENMw",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "NutriBullet",
+          "value": "n:1055398||p_123/465748",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A465748&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_3&ds=v1%3APnYBqqI8vl3E1rh4xQKgVW2%2F7%2B5YBRuKFbZq3HpGjiE",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "KitchenAid",
+          "value": "n:1055398||p_123/46640",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A46640&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_4&ds=v1%3AezM764%2BTi%2BedfN%2F19sVWFtPbN3wHMqx2SgG8MNivNQk",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "Blendtec",
+          "value": "n:1055398||p_123/46469",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A46469&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_5&ds=v1%3AVoSAEBz1P2P7HewtE%2Fl5ZIlkTvx9C0GGl5pNN95fSHQ",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "Breville",
+          "value": "n:1055398||p_123/394078",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A394078&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_6&ds=v1%3AfP%2Bz6j0CXHsGpxrNW7DSPsJXgZKMZuZ%2BfkpsjRve3r0",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "Aeitto",
+          "value": "n:1055398||p_123/473506",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A473506&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_7&ds=v1%3A4prSGudU3Zj9%2FoUFPVo3iGJsrF%2Ffa4h%2FZEpkn78S3Yk",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "Biolomix",
+          "value": "n:1055398||undefined",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A591377&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_8&ds=v1%3ANIyNeIICXg6XcxMPHmW0gkogqXLfogBkb8Wq%2BMOnhS0",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "Biolomix",
+          "value": "n:1055398||p_123/591377",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_123%3A591377&dc&qid=1718544517&rnid=85457740011&ref=sr_nr_p_123_8&ds=v1%3ANIyNeIICXg6XcxMPHmW0gkogqXLfogBkb8Wq%2BMOnhS0",
+          "refinement_display_name": "Brand"
+        },
+        {
+          "name": "Top Brands",
+          "value": "n:1055398||p_n_feature_forty-one_browse-bin/119653281011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_forty-one_browse-bin%3A119653281011&dc&qid=1718544517&rnid=119653280011&ref=sr_nr_p_n_feature_forty-one_browse-bin_1&ds=v1%3AcOjFxdjNnKM1vk%2Fm%2BUsn8L3BPHQdLJAdoG85FubpCac",
+          "refinement_display_name": "Brand"
+        }
+      ],
+      "condition": [
+        {
+          "name": "New",
+          "value": "n:1055398||p_n_condition-type/6358196011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_condition-type%3A6358196011&dc&qid=1718544517&rnid=6358194011&ref=sr_nr_p_n_condition-type_1&ds=v1%3ALgtMcptV43iZ1X1U44qHflp%2Bz%2BgLCbz3ZDzWo9fJuJ4",
+          "refinement_display_name": "Condition"
+        },
+        {
+          "name": "Used",
+          "value": "n:1055398||p_n_condition-type/6358198011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_condition-type%3A6358198011&dc&qid=1718544517&rnid=6358194011&ref=sr_nr_p_n_condition-type_2&ds=v1%3ApaKIT7AzVfF4VGJfDz9wEXF1UXjCQqubGNyohOJmLNw",
+          "refinement_display_name": "Condition"
+        }
+      ],
+      "kitchen_product_grade": [
+        {
+          "name": "Commercial Grade",
+          "value": "n:1055398||p_n_feature_five_browse-bin/5616183011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_five_browse-bin%3A5616183011&dc&qid=1718544517&rnid=5616182011&ref=sr_nr_p_n_feature_five_browse-bin_1&ds=v1%3ArXw95sKwNu3LLiqlJZppynDL1b9dPA8Jldx5FzAPmFY",
+          "refinement_display_name": "Kitchen Product Grade"
+        }
+      ],
+      "special_features": [
+        {
+          "name": "Adjustable Speed Control",
+          "value": "n:1055398||p_n_feature_three_browse-bin/98063452011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A98063452011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3A9O13wgKtNDGFhYHvRqhah7GYQVto9gf4uKtgZkXj0Ow",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Auto Shut Off",
+          "value": "n:1055398||p_n_feature_three_browse-bin/24003343011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A24003343011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_2&ds=v1%3AZY%2BzHGdzjx6DX5d3HCUePGjH5GjDpdYtk8wkKr0yijw",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Cordless",
+          "value": "n:1055398||p_n_feature_three_browse-bin/78722126011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A78722126011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_3&ds=v1%3AizMeIQBNGZoo0Rkzjm3cUZzLAB14CbnV392rsRcTRlU",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Multiple Speeds",
+          "value": "n:1055398||p_n_feature_three_browse-bin/24003337011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A24003337011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_4&ds=v1%3AchQGXqcKRPmqv1%2BEov2vr9SalBqWVdKzXV4iQwaamTw",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Pre-Programmed",
+          "value": "n:1055398||p_n_feature_three_browse-bin/98063458011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A98063458011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_5&ds=v1%3APwZuraGWTfndPZLTOEPNlNIgXRfodLLGGOjLU0i4y4c",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Programmable",
+          "value": "n:1055398||p_n_feature_three_browse-bin/24003335011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A24003335011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_6&ds=v1%3AF5HDFag0Lw2i3ompk%2FdCaD4Uev9H%2FMRwWr0or2d37GA",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Pulse Technology",
+          "value": "n:1055398||p_n_feature_three_browse-bin/98063467011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A98063467011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_7&ds=v1%3AcXJcr4n5iYdfSdHM2NRaSi8cX2gI1gApS32mD%2FSXh5s",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Safety LockSingle Serve",
+          "value": "n:1055398||undefined",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A24003336011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_8&ds=v1%3ARZWFb88opUau8pJXrLQmkNt0Gwr197YFfdq6%2FWbkbeo",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Safety Lock",
+          "value": "n:1055398||p_n_feature_three_browse-bin/24003336011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A24003336011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_8&ds=v1%3ARZWFb88opUau8pJXrLQmkNt0Gwr197YFfdq6%2FWbkbeo",
+          "refinement_display_name": "Special Features"
+        },
+        {
+          "name": "Single Serve",
+          "value": "n:1055398||p_n_feature_three_browse-bin/24003341011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_three_browse-bin%3A24003341011&dc&qid=1718544517&rnid=24003285011&ref=sr_nr_p_n_feature_three_browse-bin_9&ds=v1%3A5I4zxLA1KZQgiEPi6xSDfIx3JduM4BQLImNsg4xLSeU",
+          "refinement_display_name": "Special Features"
+        }
+      ],
+      "material_type_free": [
+        {
+          "name": "BPA Free",
+          "value": "n:1055398||p_n_feature_four_browse-bin/24676657011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_four_browse-bin%3A24676657011&dc&qid=1718544517&rnid=24676479011&ref=sr_nr_p_n_feature_four_browse-bin_1&ds=v1%3Amo5VbTh8JcBV02bCwft7pQYBRkWIlfKz0ysJfzumX8Q",
+          "refinement_display_name": "Material Type Free"
+        }
+      ],
+      "blending_container_material": [
+        {
+          "name": "Metal",
+          "value": "n:1055398||p_n_material_browse/17592569011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_material_browse%3A17592569011&dc&qid=1718544517&rnid=17592567011&ref=sr_nr_p_n_material_browse_1&ds=v1%3AVN4fX81WI0X%2Bg6SM9FbxVrGjg90%2Fvm1%2BkkwIWyCdqjk",
+          "refinement_display_name": "Blending Container Material"
+        },
+        {
+          "name": "Plastic",
+          "value": "n:1055398||p_n_material_browse/17592570011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_material_browse%3A17592570011&dc&qid=1718544517&rnid=17592567011&ref=sr_nr_p_n_material_browse_2&ds=v1%3AdOceCiApmaKU1E3lla9UzXV%2BENW0DqVVYlxka%2FGYd7o",
+          "refinement_display_name": "Blending Container Material"
+        }
+      ],
+      "blender_capacity": [
+        {
+          "name": "Up to 19.9 fluid oz",
+          "value": "n:1055398||p_n_feature_keywords_four_browse-bin/7688966011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_keywords_four_browse-bin%3A7688966011&dc&qid=1718544517&rnid=7688965011&ref=sr_nr_p_n_feature_keywords_four_browse-bin_1&ds=v1%3AINeNbmHZIk9%2BMZdXFGAMj081YmPMWmeA3GMJcMKKWMk",
+          "refinement_display_name": "Blender Capacity"
+        },
+        {
+          "name": "20-29.9 fluid oz",
+          "value": "p_n_feature_keywords_four_browse-bin/7688967011",
+          "refinement_display_name": "Blender Capacity"
+        },
+        {
+          "name": "30-39.9 fluid oz",
+          "value": "n:1055398||p_n_feature_keywords_four_browse-bin/7688968011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_keywords_four_browse-bin%3A7688968011&dc&qid=1718544517&rnid=7688965011&ref=sr_nr_p_n_feature_keywords_four_browse-bin_3&ds=v1%3AIUOfpWeUDj7BCaQiqbi713AzkwbJWjSr0AAj65zhZjo",
+          "refinement_display_name": "Blender Capacity"
+        },
+        {
+          "name": "40-49.9 fluid oz",
+          "value": "p_n_feature_keywords_four_browse-bin/7688969011",
+          "refinement_display_name": "Blender Capacity"
+        },
+        {
+          "name": "50-59.9 fluid oz",
+          "value": "n:1055398||p_n_feature_keywords_four_browse-bin/7688970011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_keywords_four_browse-bin%3A7688970011&dc&qid=1718544517&rnid=7688965011&ref=sr_nr_p_n_feature_keywords_four_browse-bin_5&ds=v1%3A9SRLk5FUTekXSJy5DXDO5eWNuKiIerebcJW6REAkvmA",
+          "refinement_display_name": "Blender Capacity"
+        },
+        {
+          "name": "60-69.9 fluid oz",
+          "value": "n:1055398||p_n_feature_keywords_four_browse-bin/7688971011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_keywords_four_browse-bin%3A7688971011&dc&qid=1718544517&rnid=7688965011&ref=sr_nr_p_n_feature_keywords_four_browse-bin_6&ds=v1%3Ad0RJLnIH5%2FKRUi5hsdhE%2FB2z3VYMbLT7%2Bk50GQRID%2FU",
+          "refinement_display_name": "Blender Capacity"
+        },
+        {
+          "name": "70 fluid oz & above",
+          "value": "n:1055398||p_n_feature_keywords_four_browse-bin/7688972011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_keywords_four_browse-bin%3A7688972011&dc&qid=1718544517&rnid=7688965011&ref=sr_nr_p_n_feature_keywords_four_browse-bin_7&ds=v1%3AWMar81JicuhyNJ9kmooHjDgVOz0DJZNm2k6bDbeSAoY",
+          "refinement_display_name": "Blender Capacity"
+        }
+      ],
+      "recommended_uses_for_product": [
+        {
+          "name": "Blending",
+          "value": "n:1055398||p_n_feature_browse-bin/23983820011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_browse-bin%3A23983820011&dc&qid=1718544517&rnid=23983785011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AvKsfoq3lcy6Wnn3ROJZ6tnMGr6IpozGI7LrBmdFbIxc",
+          "refinement_display_name": "Recommended Uses For Product"
+        },
+        {
+          "name": "Crushing",
+          "value": "n:1055398||p_n_feature_browse-bin/23983819011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_browse-bin%3A23983819011&dc&qid=1718544517&rnid=23983785011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AJLcHAopMUOIBh3tWqbS7Kod%2FkYf85ka9y3rx6EW1GHc",
+          "refinement_display_name": "Recommended Uses For Product"
+        },
+        {
+          "name": "Chopping",
+          "value": "n:1055398||p_n_feature_browse-bin/23983822011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_browse-bin%3A23983822011&dc&qid=1718544517&rnid=23983785011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3A8MTmlH%2BVxJ003fCIQARBe04D5UHI0J3XizI5mlMc0dI",
+          "refinement_display_name": "Recommended Uses For Product"
+        },
+        {
+          "name": "Ice Crush",
+          "value": "n:1055398||p_n_feature_browse-bin/23983812011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_browse-bin%3A23983812011&dc&qid=1718544517&rnid=23983785011&ref=sr_nr_p_n_feature_browse-bin_4&ds=v1%3AFKE78jXlBW204AGwHUYPkxTSWseqjXg8BnV2TQqMsKM",
+          "refinement_display_name": "Recommended Uses For Product"
+        },
+        {
+          "name": "Juices",
+          "value": "n:1055398||p_n_feature_browse-bin/23983816011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_browse-bin%3A23983816011&dc&qid=1718544517&rnid=23983785011&ref=sr_nr_p_n_feature_browse-bin_5&ds=v1%3ApO8RKyjLN%2BkKvKE7vd04S37Xh14MFNEvOfEnHYT6X8k",
+          "refinement_display_name": "Recommended Uses For Product"
+        },
+        {
+          "name": "Pulse",
+          "value": "n:1055398||p_n_feature_browse-bin/23983824011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_browse-bin%3A23983824011&dc&qid=1718544517&rnid=23983785011&ref=sr_nr_p_n_feature_browse-bin_6&ds=v1%3AyI75%2FRwlRoDqGUkgRqQZiyG7l%2FRqR%2ByyPhTgOPakcck",
+          "refinement_display_name": "Recommended Uses For Product"
+        },
+        {
+          "name": "Pureeing",
+          "value": "n:1055398||p_n_feature_browse-bin/23983826011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_browse-bin%3A23983826011&dc&qid=1718544517&rnid=23983785011&ref=sr_nr_p_n_feature_browse-bin_7&ds=v1%3AiLRRSq3Gv0LbgF8g0kVCrX2aZNx0FtjhAfrfAcPewV4",
+          "refinement_display_name": "Recommended Uses For Product"
+        }
+      ],
+      "blender_motor_power": [
+        {
+          "name": "Up to 199 W",
+          "value": "p_n_feature_keywords_five_browse-bin/7801485011",
+          "refinement_display_name": "Blender Motor Power"
+        },
+        {
+          "name": "200-299 W",
+          "value": "p_n_feature_keywords_five_browse-bin/7801486011",
+          "refinement_display_name": "Blender Motor Power"
+        },
+        {
+          "name": "300-399 W",
+          "value": "p_n_feature_keywords_five_browse-bin/7801487011",
+          "refinement_display_name": "Blender Motor Power"
+        },
+        {
+          "name": "400-599 W",
+          "value": "p_n_feature_keywords_five_browse-bin/7801488011",
+          "refinement_display_name": "Blender Motor Power"
+        },
+        {
+          "name": "600-699 W",
+          "value": "n:1055398||p_n_feature_keywords_five_browse-bin/7801489011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_keywords_five_browse-bin%3A7801489011&dc&qid=1718544517&rnid=7801484011&ref=sr_nr_p_n_feature_keywords_five_browse-bin_5&ds=v1%3AP6UDSWefPt%2FpBkQwANFhoeujXJwKyAPeTPZ1mbnd9ns",
+          "refinement_display_name": "Blender Motor Power"
+        },
+        {
+          "name": "700-999 W",
+          "value": "p_n_feature_keywords_five_browse-bin/7801490011",
+          "refinement_display_name": "Blender Motor Power"
+        },
+        {
+          "name": "1000 W & above",
+          "value": "n:1055398||p_n_feature_keywords_five_browse-bin/7801491011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_n_feature_keywords_five_browse-bin%3A7801491011&dc&qid=1718544517&rnid=7801484011&ref=sr_nr_p_n_feature_keywords_five_browse-bin_7&ds=v1%3Abvel%2FuPbqDPL6pOTLUHE1od2RTw8OO5guAG8vSq6PRw",
+          "refinement_display_name": "Blender Motor Power"
+        }
+      ],
+      "subscription_options": [
+        {
+          "name": "Subscribe & Save Eligible",
+          "value": "p_n_is_sns_available/2617006011",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=p_n_is_sns_available%3A2617006011&dc&qid=1718544517&rnid=2617005011&ref=sr_nr_p_n_is_sns_available_1&ds=v1%3Ah5Vb3B9VHYKx8ZjdrWdocyW0%2BOoU6xZJpMMKvl%2F4k28",
+          "refinement_display_name": "Subscription Options"
+        }
+      ],
+      "seller": [
+        {
+          "name": "Amazon.com",
+          "value": "n:1055398||p_6/ATVPDKIKX0DER",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AATVPDKIKX0DER&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_1&ds=v1%3AJiTw2abyP%2BunJjiFmxcco6OC7vP1Far%2BBFRUG2hQdqM",
+          "refinement_display_name": "Seller"
+        },
+        {
+          "name": "Global Commercial Parts",
+          "value": "n:1055398||p_6/A3EPIN8KW1GGQX",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AA3EPIN8KW1GGQX&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_2&ds=v1%3AgBNKtS8tMj8Wv79cclkPuBu1bLOcO3JkCtTJ8JR4yog",
+          "refinement_display_name": "Seller"
+        },
+        {
+          "name": "Amazon WarehouseCommercial Kitchen DirectSimple Home InspirationsJ.L. HuffordBresco®",
+          "value": "n:1055398||undefined",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AA2L77EE7U53NWQ&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_3&ds=v1%3AAv7P45jFP2atxkJGXEBWxKMT67TlhVJR7YRTh9kq%2Fsk",
+          "refinement_display_name": "Seller"
+        },
+        {
+          "name": "Amazon Warehouse",
+          "value": "n:1055398||p_6/A2L77EE7U53NWQ",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AA2L77EE7U53NWQ&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_3&ds=v1%3AAv7P45jFP2atxkJGXEBWxKMT67TlhVJR7YRTh9kq%2Fsk",
+          "refinement_display_name": "Seller"
+        },
+        {
+          "name": "Commercial Kitchen Direct",
+          "value": "n:1055398||p_6/A3LLJ60SQCRRI1",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AA3LLJ60SQCRRI1&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_4&ds=v1%3ALjTwdBU6XhlEP%2FUV9B1jpjBnscKYVXobeU215oQIqeM",
+          "refinement_display_name": "Seller"
+        },
+        {
+          "name": "Simple Home Inspirations",
+          "value": "n:1055398||p_6/A1WC3U5ACKPPMA",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AA1WC3U5ACKPPMA&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_5&ds=v1%3A8Eyxu0EyTc9grBoo3NY8dlTNstHTvD%2Ffyddoc5H6O5I",
+          "refinement_display_name": "Seller"
+        },
+        {
+          "name": "J.L. Hufford",
+          "value": "n:1055398||p_6/A606ET06D9SVW",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AA606ET06D9SVW&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_6&ds=v1%3AzZJEpZjDCET10phBuMWeTBzl48eQSS1qKvqr1RieDYk",
+          "refinement_display_name": "Seller"
+        },
+        {
+          "name": "Bresco®",
+          "value": "n:1055398||p_6/A3APLHUR3ABYP5",
+          "link": "https://www.amazon.com/s?k=vitamix&rh=n%3A1055398%2Cp_6%3AA3APLHUR3ABYP5&dc&qid=1718544517&rnid=331544011&ref=sr_nr_p_6_7&ds=v1%3AOz%2Fy54%2FDxooKJiqzGNVQGGYOm%2B4SOWOSpnm3dbdtUH8",
+          "refinement_display_name": "Seller"
+        }
+      ]
+    },
+    "ad_blocks": [
+      {
+        "campaign_id": "300010616688506",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/39b009f8-ed40-416c-9dbe-97a3e8faf98c._CR0,0,576,720_AC_SX130_SY60_AGmerlin_QL70_.png",
+        "background_image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1bca3010-e884-482c-912f-edcfcaed6223._CR0,657,3400,1781_SX507_AGmerlin_QL70_.jpg",
+        "advertiser_id": "300152991430402",
+        "ad_id": "300152991430402",
+        "link": "https://aax-us-iad.amazon.com/x/c/RI2kOwctohwZOEdGziV4sgkAAAGQITxJ9gEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDZ9bIg/https://www.amazon.com/stores/page/2DD8D548-17BE-4B63-BDA6-2AFBADC2B0AF/?_encoding=UTF8&store_ref=SB_A03535373TSPKJVOM9IDZ-A00471021P4FKX8UCS3YC&pd_rd_plhdr=t&aaxitk=9c02071b7ea968bcfc7a7c0044f3bf47&hsa_cr_id=0&lp_asins=B01N9ZO9G8%2CB08JVHMKNJ%2CB0D27WZWNQ&lp_query=vitamix&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_sccd_bkgd&pd_rd_w=deowm&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=Wx2vJ&pd_rd_r=be875742-e9ac-4f57-a44d-2184336a13a6",
+        "title": "Achieve total drink-mastery",
+        "store_link": "https://www.amazon.com/stores/page/2DD8D548-17BE-4B63-BDA6-2AFBADC2B0AF/?_encoding=UTF8&store_ref=SB_A03535373TSPKJVOM9IDZ-A00471021P4FKX8UCS3YC&pd_rd_plhdr=t&aaxitk=9c02071b7ea968bcfc7a7c0044f3bf47&hsa_cr_id=0&lp_asins=B01N9ZO9G8%2CB08JVHMKNJ%2CB0D27WZWNQ&lp_query=vitamix&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_sccd_cta&pd_rd_w=deowm&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=GEB19G2C975F46ANGQCW&pd_rd_wg=Wx2vJ&pd_rd_r=be875742-e9ac-4f57-a44d-2184336a13a6",
+        "store_id": "2DD8D548-17BE-4B63-BDA6-2AFBADC2B0AF",
+        "store_name": "Hamilton Beach Commercial"
+      }
+    ],
+    "pagination": {
+      "total_results": 801,
+      "current_page": 1,
+      "next_page_link": "https://www.amazon.com/s?k=vitamix&page=2&qid=1718544517&ref=sr_pg_2",
+      "total_pages": 20
+    }
+  }

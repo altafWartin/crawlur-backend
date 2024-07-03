@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: Crawlur-Server
+    runtime: node
+    repo: https://github.com/altafWartin/Crawlur-Server
+    plan: free
+    region: oregon
+    buildCommand: npm install
+    startCommand: node index.js
+version: "1"
